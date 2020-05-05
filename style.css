@@ -1,0 +1,39 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #173f5f;
+
+}
+p {
+    padding-left:25px;
+    padding-right:25px;
+    font-size: 125%;
+}
+
+figure {
+    text-align: center;
+}
+figcaption{
+    padding-bottom: 20px;
+}
+#loc {
+    padding-bottom: 0px;
+}
+figcaption.loc{
+    font-style: italic;
+}
+header{
+    text-align: center;
+    font-size: 300%;
+}
+h2 {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+footer {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
